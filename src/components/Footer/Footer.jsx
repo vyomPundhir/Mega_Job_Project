@@ -48,38 +48,26 @@ const Footer = () => {
                 Support
               </h3>
               <ul>
-                                <li className="mb-4">
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Account
-                                    </Link>
-                                </li>
-                                <li className="mb-4">
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Help
-                                    </Link>
-                                </li>
-                                <li className="mb-4">
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Contact Us
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Customer Support
-                                    </Link>
-                                </li>
+                <li className="mb-4">
+                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    Account
+                  </Link>
+                </li>
+                <li className="mb-4">
+                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    Help
+                  </Link>
+                </li>
+                <li className="mb-4">
+                    <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                      Contact Us
+                    </Link>
+                </li>
+                <li>
+                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    Customer Support
+                  </Link>
+                </li>
               </ul>
             </div>
           </div>
@@ -89,30 +77,21 @@ const Footer = () => {
                                 Legals
               </h3>
               <ul>
-                                <li className="mb-4">
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Terms &amp; Conditions
-                                    </Link>
-                                </li>
-                                <li className="mb-4">
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Privacy Policy
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link
-                                        className=" text-base font-medium text-gray-900 hover:text-gray-700"
-                                        to="/"
-                                    >
-                                        Licensing
-                                    </Link>
-                                </li>
+                <li className="mb-4">
+                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    Terms &amp; Conditions
+                  </Link>
+                </li>
+                <li className="mb-4">
+                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    Privacy Policy
+                  </Link>
+                </li>
+                <li>
+                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    Licensing
+                  </Link>
+                </li>
               </ul>
             </div>
           </div>
