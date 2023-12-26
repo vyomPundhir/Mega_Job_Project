@@ -6,6 +6,11 @@ export default function Protected ({children, authentication = true})
 {
   const navigate= useNavigate()
   const [loader, setLoader] = useState(true)
+  const authStatus = useSelector(state => state.auth.status)
+
+  useEffect(() => {
+
+  }, [authStatus, navigate, authentication])
   
   return (
     <div>Protected</div>
