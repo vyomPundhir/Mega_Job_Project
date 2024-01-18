@@ -37,7 +37,7 @@ const Header = () => {
   ]
 
   return (
-    <header className="py-3 shadow bg-[black] font-[500] text-[#b8b7b7]">
+    <header className="py-3 shadow bg-[black] font-[500] text-[#b8b7b7] rounded-[5px]">
       <Container>
         <nav className='flex'>
           <div className="mr-4">
