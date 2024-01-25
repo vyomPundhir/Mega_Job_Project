@@ -26,20 +26,20 @@ const Footer = () => {
               </h3>
               <ul>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/" >
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/" >
                       Features
                   </Link>
                 </li>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Pricing
                   </Link>
                 </li>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">Affiliate Program</Link>
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">Affiliate Program</Link>
                 </li>
                 <li>
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">Press Kit</Link>
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">Press Kit</Link>
                 </li>
               </ul>
             </div>
@@ -51,22 +51,22 @@ const Footer = () => {
               </h3>
               <ul>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Account
                   </Link>
                 </li>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Help
                   </Link>
                 </li>
                 <li className="mb-4">
-                    <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                    <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                       Contact Us
                     </Link>
                 </li>
                 <li>
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Customer Support
                   </Link>
                 </li>
@@ -80,17 +80,17 @@ const Footer = () => {
               </h3>
               <ul>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Terms &amp; Conditions
                   </Link>
                 </li>
                 <li className="mb-4">
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Privacy Policy
                   </Link>
                 </li>
                 <li>
-                  <Link className=" text-base font-medium text-gray-900 hover:text-gray-700" to="/">
+                  <Link className=" text-base font-medium text-gray-700 hover:text-gray-600" to="/">
                     Licensing
                   </Link>
                 </li>
